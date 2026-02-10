@@ -1,0 +1,43 @@
+# 06/09/25 19:03:05
+parm /zfshomes/spsinghal/2025/summer/bharat/mdcrd/P.mdcrd
+/zfshomes/spsinghal/2025/summer/bharat/prmtop/P.prmtop
+# 06/09/25 19:03:36
+parm /zfshomes/spsinghal/2025/summer/bharat/prmtop/P.prmtop
+trajin /zfshomes/spsinghal/2025/summer/bharat/mdcrd/P.mdcrd
+reference /zfshomes/spsinghal/2025/summer/bharat/mdcrd/P.mdcrd 1
+box auto
+center @CA
+rms reference mass out rmsd_P.dat
+matrix correl @* out P_dccm.dat
+run
+# 06/09/25 19:05:14
+parm /zfshomes/spsinghal/2025/summer/bharat/prmtop/PL.prmtop
+trajin /zfshomes/spsinghal/2025/summer/bharat/mdcrd/PL.mdcrd
+reference /zfshomes/spsinghal/2025/summer/bharat/mdcrd/PL.mdcrd 1
+box auto
+center @CA
+rms reference mass out rmsd_PL.dat
+matrix correl @* out PL_dccm.dat
+run
+# 06/09/25 19:07:26
+parm /zfshomes/spsinghal/2025/summer/bharat/prmtop/AP.prmtop
+trajin /zfshomes/spsinghal/2025/summer/bharat/prmtop/AP.prmtop
+trajin /zfshomes/spsinghal/2025/summer/bharat/mdcrd/AP.mdcrd
+# 06/09/25 19:08:04
+parm /zfshomes/spsinghal/2025/summer/bharat/prmtop/AP.prmtop
+trajin /zfshomes/spsinghal/2025/summer/bharat/mdcrd/AP.mdcrd
+reference /zfshomes/spsinghal/2025/summer/bharat/mdcrd/AP.mdcrd 1
+box auto
+center @CA
+rms reference mass out rmsd_AP.dat
+matrix correl @* out AP_dccm.dat
+run
+# 06/09/25 19:10:08
+parm /zfshomes/spsinghal/2025/summer/bharat/prmtop/APL.prmtop
+trajin /zfshomes/spsinghal/2025/summer/bharat/mdcrd/APL.mdcrd
+reference /zfshomes/spsinghal/2025/summer/bharat/mdcrd/APL.mdcrd 1
+box auto
+center @CA
+rms reference mass out rmsd_APL.dat
+matrix correl @* out APL_dccm.dat
+run

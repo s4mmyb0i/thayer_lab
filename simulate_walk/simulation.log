@@ -1,0 +1,16 @@
+==== Batch Network Creation Started ====
+Matrix directory: /Users/sam/Documents/Wesleyan/Thayer_Lab/2025/summer/bharat/matrices/trans_abs_matrix
+Max steps: 1000
+Number of walks: 10000
+Random walk output directory: /Users/sam/Documents/Wesleyan/Thayer_Lab/2025/summer/bharat/random_walk
+Logging to: ./simulate_walk/simulation.log
+
+Processing /Users/sam/Documents/Wesleyan/Thayer_Lab/2025/summer/bharat/matrices/trans_abs_matrix/AP_trans_abs.npz
+
+Processing /Users/sam/Documents/Wesleyan/Thayer_Lab/2025/summer/bharat/matrices/trans_abs_matrix/APL_trans_abs.npz
+
+Processing /Users/sam/Documents/Wesleyan/Thayer_Lab/2025/summer/bharat/matrices/trans_abs_matrix/P_trans_abs.npz
+
+Processing /Users/sam/Documents/Wesleyan/Thayer_Lab/2025/summer/bharat/matrices/trans_abs_matrix/PL_trans_abs.npz
+
+==== Batch Random Simulated Walks Completed ====

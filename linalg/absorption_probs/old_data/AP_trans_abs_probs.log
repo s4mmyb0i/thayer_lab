@@ -1,0 +1,16 @@
+2025-07-16 22:21:00 - INFO - Starting simulations with the following parameters:
+2025-07-16 22:21:00 - INFO - Matrix file: /Users/sam/Documents/Wesleyan/Thayer_Lab/2025/summer/bharat/matrices/trans_abs_matrix/AP_trans_abs.npz
+2025-07-16 22:21:00 - INFO - Output directory: /Users/sam/Documents/Wesleyan/Thayer_Lab/2025/summer/bharat/linalg/absorption_probs
+2025-07-16 22:21:02 - INFO - Saved absorption probabilities to /Users/sam/Documents/Wesleyan/Thayer_Lab/2025/summer/bharat/linalg/absorption_probs/AP_trans_abs_probs.csv and /Users/sam/Documents/Wesleyan/Thayer_Lab/2025/summer/bharat/linalg/absorption_probs/AP_trans_abs_probs.npz
+2025-07-17 18:04:35 - INFO - Starting simulations with the following parameters:
+2025-07-17 18:04:35 - INFO - Matrix file: /Users/sam/Documents/Wesleyan/Thayer_Lab/2025/summer/bharat/matrices/trans_abs_matrix/AP_trans_abs.npz
+2025-07-17 18:04:35 - INFO - Output directory: /Users/sam/Documents/Wesleyan/Thayer_Lab/2025/summer/bharat/linalg/absorption_probs
+2025-07-17 18:04:42 - INFO - Saved absorption probabilities to /Users/sam/Documents/Wesleyan/Thayer_Lab/2025/summer/bharat/linalg/absorption_probs/AP_trans_abs_probs.csv and /Users/sam/Documents/Wesleyan/Thayer_Lab/2025/summer/bharat/linalg/absorption_probs/AP_trans_abs_probs.npz
+2025-09-18 22:16:03 - INFO - Starting simulations with the following parameters:
+2025-09-18 22:16:03 - INFO - Matrix file: /Users/sam/Documents/Wesleyan/Thayer_Lab/2025/summer/bharat/matrices/trans_abs_matrix/AP_trans_abs.npz
+2025-09-18 22:16:03 - INFO - Output directory: /Users/sam/Documents/Wesleyan/Thayer_Lab/2025/summer/bharat/linalg/absorption_probs
+2025-09-18 22:16:41 - INFO - Saved absorption probabilities to /Users/sam/Documents/Wesleyan/Thayer_Lab/2025/summer/bharat/linalg/absorption_probs/AP_trans_abs_probs.csv and /Users/sam/Documents/Wesleyan/Thayer_Lab/2025/summer/bharat/linalg/absorption_probs/AP_trans_abs_probs.npz
+2025-10-09 15:03:01 - INFO - Starting simulations with the following parameters:
+2025-10-09 15:03:01 - INFO - Matrix file: /Users/sam/Documents/Wesleyan/Thayer_Lab/2025/summer/bharat/matrices/trans_abs_matrix/AP_trans_abs.npz
+2025-10-09 15:03:01 - INFO - Output directory: /Users/sam/Documents/Wesleyan/Thayer_Lab/2025/summer/bharat/linalg/absorption_probs
+2025-10-09 15:03:05 - INFO - Saved absorption probabilities to /Users/sam/Documents/Wesleyan/Thayer_Lab/2025/summer/bharat/linalg/absorption_probs/AP_trans_abs_probs.csv and /Users/sam/Documents/Wesleyan/Thayer_Lab/2025/summer/bharat/linalg/absorption_probs/AP_trans_abs_probs.npz

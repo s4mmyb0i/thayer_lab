@@ -1,0 +1,84 @@
+2025-07-17 18:25:36 - INFO - Starting simulations with the following parameters:
+2025-07-17 18:25:36 - INFO - Matrix file: /Users/sam/Documents/Wesleyan/Thayer_Lab/2025/summer/bharat/matrices/trans_abs_matrix/APL_trans_abs.npz
+2025-07-17 18:25:36 - INFO - Max steps: 100
+2025-07-17 18:25:36 - INFO - Number of walks: 100
+2025-07-17 18:25:36 - INFO - Random walk directory: /Users/sam/Documents/Wesleyan/Thayer_Lab/2025/summer/bharat/random_walk
+2025-07-17 18:25:50 - INFO - Written random walks to /Users/sam/Documents/Wesleyan/Thayer_Lab/2025/summer/bharat/random_walk/APL_trans_abs_walks.csv
+2025-07-17 18:25:50 - INFO - Simulation completed.
+2025-09-18 21:49:58 - INFO - Starting simulations with the following parameters:
+2025-09-18 21:49:58 - INFO - Matrix file: /Users/sam/Documents/Wesleyan/Thayer_Lab/2025/summer/bharat/matrices/trans_abs_matrix/APL_trans_abs.npz
+2025-09-18 21:49:58 - INFO - Max steps: 100
+2025-09-18 21:49:58 - INFO - Number of walks: 100
+2025-09-18 21:49:58 - INFO - Random walk directory: /Users/sam/Documents/Wesleyan/Thayer_Lab/2025/summer/bharat/random_walk
+2025-09-18 21:50:07 - INFO - Written random walks to /Users/sam/Documents/Wesleyan/Thayer_Lab/2025/summer/bharat/random_walk/APL_trans_abs_walks.csv
+2025-09-18 21:50:07 - INFO - Simulation completed.
+2025-09-18 22:13:43 - INFO - Starting simulations with the following parameters:
+2025-09-18 22:13:43 - INFO - Matrix file: /Users/sam/Documents/Wesleyan/Thayer_Lab/2025/summer/bharat/matrices/trans_abs_matrix/APL_trans_abs.npz
+2025-09-18 22:13:43 - INFO - Max steps: 100
+2025-09-18 22:13:43 - INFO - Number of walks: 100
+2025-09-18 22:13:43 - INFO - Random walk directory: /Users/sam/Documents/Wesleyan/Thayer_Lab/2025/summer/bharat/random_walk
+2025-09-18 22:13:52 - INFO - Written random walks to /Users/sam/Documents/Wesleyan/Thayer_Lab/2025/summer/bharat/random_walk/APL_trans_abs_walks.csv
+2025-09-18 22:13:52 - INFO - Simulation completed.
+2025-10-08 23:46:14 - INFO - Starting simulations with the following parameters:
+2025-10-08 23:46:14 - INFO - Matrix file: /Users/sam/Documents/Wesleyan/Thayer_Lab/2025/summer/bharat/matrices/trans_abs_matrix/APL_trans_abs.npz
+2025-10-08 23:46:14 - INFO - Max steps: 100
+2025-10-08 23:46:14 - INFO - Number of walks: 100
+2025-10-08 23:46:14 - INFO - Random walk directory: /Users/sam/Documents/Wesleyan/Thayer_Lab/2025/summer/bharat/random_walk
+2025-10-08 23:46:18 - INFO - Written random walks to /Users/sam/Documents/Wesleyan/Thayer_Lab/2025/summer/bharat/random_walk/APL_trans_abs_walks.csv
+2025-10-08 23:46:18 - INFO - Simulation completed.
+2025-10-09 15:01:46 - INFO - Starting simulations with the following parameters:
+2025-10-09 15:01:46 - INFO - Matrix file: /Users/sam/Documents/Wesleyan/Thayer_Lab/2025/summer/bharat/matrices/trans_abs_matrix/APL_trans_abs.npz
+2025-10-09 15:01:46 - INFO - Max steps: 100
+2025-10-09 15:01:46 - INFO - Number of walks: 100
+2025-10-09 15:01:46 - INFO - Random walk directory: /Users/sam/Documents/Wesleyan/Thayer_Lab/2025/summer/bharat/random_walk
+2025-10-09 15:01:49 - INFO - Written random walks to /Users/sam/Documents/Wesleyan/Thayer_Lab/2025/summer/bharat/random_walk/APL_trans_abs_walks.csv
+2025-10-09 15:01:49 - INFO - Simulation completed.
+2026-01-03 18:55:02 - INFO - Starting simulations with the following parameters:
+2026-01-03 18:55:02 - INFO - Matrix file: /Users/sam/Documents/Wesleyan/Thayer_Lab/2025/summer/bharat/matrices/trans_abs_matrix/APL_trans_abs.npz
+2026-01-03 18:55:02 - INFO - Max steps: 100
+2026-01-03 18:55:02 - INFO - Number of walks: 100
+2026-01-03 18:55:02 - INFO - Random walk directory: /Users/sam/Documents/Wesleyan/Thayer_Lab/2025/summer/bharat/random_walk
+2026-01-03 18:55:03 - INFO - Written random walks to /Users/sam/Documents/Wesleyan/Thayer_Lab/2025/summer/bharat/random_walk/APL_trans_abs_walks.csv
+2026-01-03 18:55:03 - INFO - Simulation completed.
+2026-01-03 18:56:18 - INFO - Starting simulations with the following parameters:
+2026-01-03 18:56:18 - INFO - Matrix file: /Users/sam/Documents/Wesleyan/Thayer_Lab/2025/summer/bharat/matrices/trans_abs_matrix/APL_trans_abs.npz
+2026-01-03 18:56:18 - INFO - Max steps: 100
+2026-01-03 18:56:18 - INFO - Number of walks: 100
+2026-01-03 18:56:18 - INFO - Random walk directory: /Users/sam/Documents/Wesleyan/Thayer_Lab/2025/summer/bharat/random_walk
+2026-01-03 18:56:19 - INFO - Written random walks to /Users/sam/Documents/Wesleyan/Thayer_Lab/2025/summer/bharat/random_walk/APL_trans_abs_walks.csv
+2026-01-03 18:56:19 - INFO - Simulation completed.
+2026-01-03 19:06:39 - INFO - Starting simulations with the following parameters:
+2026-01-03 19:06:39 - INFO - Matrix file: /Users/sam/Documents/Wesleyan/Thayer_Lab/2025/summer/bharat/matrices/trans_abs_matrix/APL_trans_abs.npz
+2026-01-03 19:06:39 - INFO - Max steps: 100
+2026-01-03 19:06:39 - INFO - Number of walks: 100
+2026-01-03 19:06:39 - INFO - Random walk directory: /Users/sam/Documents/Wesleyan/Thayer_Lab/2025/summer/bharat/random_walk
+2026-01-03 19:06:46 - INFO - Written random walks to /Users/sam/Documents/Wesleyan/Thayer_Lab/2025/summer/bharat/random_walk/APL_trans_abs_walks.csv
+2026-01-03 19:06:46 - INFO - Simulation completed.
+2026-01-04 12:24:50 - INFO - Starting simulations with the following parameters:
+2026-01-04 12:24:50 - INFO - Matrix file: /Users/sam/Documents/Wesleyan/Thayer_Lab/2025/summer/bharat/matrices/trans_abs_matrix/APL_trans_abs.npz
+2026-01-04 12:24:50 - INFO - Max steps: 1000
+2026-01-04 12:24:50 - INFO - Number of walks: 1000
+2026-01-04 12:24:50 - INFO - Random walk directory: /Users/sam/Documents/Wesleyan/Thayer_Lab/2025/summer/bharat/random_walk
+2026-01-04 12:24:51 - INFO - Written random walks to /Users/sam/Documents/Wesleyan/Thayer_Lab/2025/summer/bharat/random_walk/APL_trans_abs_walks.csv
+2026-01-04 12:24:51 - INFO - Simulation completed.
+2026-01-04 12:32:03 - INFO - Starting simulations with the following parameters:
+2026-01-04 12:32:03 - INFO - Matrix file: /Users/sam/Documents/Wesleyan/Thayer_Lab/2025/summer/bharat/matrices/trans_abs_matrix/APL_trans_abs.npz
+2026-01-04 12:32:03 - INFO - Max steps: 1000
+2026-01-04 12:32:03 - INFO - Number of walks: 1000
+2026-01-04 12:32:03 - INFO - Random walk directory: /Users/sam/Documents/Wesleyan/Thayer_Lab/2025/summer/bharat/random_walk
+2026-01-04 12:32:13 - INFO - Written random walks to /Users/sam/Documents/Wesleyan/Thayer_Lab/2025/summer/bharat/random_walk/APL_trans_abs_walks.csv
+2026-01-04 12:32:13 - INFO - Simulation completed.
+2026-01-04 15:50:07 - INFO - Starting simulations with the following parameters:
+2026-01-04 15:50:07 - INFO - Matrix file: /Users/sam/Documents/Wesleyan/Thayer_Lab/2025/summer/bharat/matrices/trans_abs_matrix/APL_trans_abs.npz
+2026-01-04 15:50:07 - INFO - Max steps: 1000
+2026-01-04 15:50:07 - INFO - Number of walks: 10000
+2026-01-04 15:50:07 - INFO - Random walk directory: /Users/sam/Documents/Wesleyan/Thayer_Lab/2025/summer/bharat/random_walk
+2026-01-04 15:52:13 - INFO - Written random walks to /Users/sam/Documents/Wesleyan/Thayer_Lab/2025/summer/bharat/random_walk/APL_trans_abs_walks.csv
+2026-01-04 15:52:13 - INFO - Simulation completed.
+2026-01-04 16:20:33 - INFO - Starting simulations with the following parameters:
+2026-01-04 16:20:33 - INFO - Matrix file: /Users/sam/Documents/Wesleyan/Thayer_Lab/2025/summer/bharat/matrices/trans_abs_matrix/APL_trans_abs.npz
+2026-01-04 16:20:33 - INFO - Max steps: 1000
+2026-01-04 16:20:33 - INFO - Number of walks: 10000
+2026-01-04 16:20:33 - INFO - Random walk directory: /Users/sam/Documents/Wesleyan/Thayer_Lab/2025/summer/bharat/random_walk
+2026-01-04 16:20:46 - INFO - Written random walks to /Users/sam/Documents/Wesleyan/Thayer_Lab/2025/summer/bharat/random_walk/APL_trans_abs_walks.csv
+2026-01-04 16:20:46 - INFO - Simulation completed.

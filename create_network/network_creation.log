@@ -1,0 +1,35 @@
+==== Batch Network Creation Started ====
+Matrix directory: /Users/sam/Documents/Wesleyan/Thayer_Lab/2025/summer/bharat/dccm
+PDB directory: /Users/sam/Documents/Wesleyan/Thayer_Lab/2025/summer/bharat/pdb
+Threshold lower bound: 0.8
+GraphML output directory: /Users/sam/Documents/Wesleyan/Thayer_Lab/2025/summer/bharat/matrices/graphml
+Adjacency matrix output directory: /Users/sam/Documents/Wesleyan/Thayer_Lab/2025/summer/bharat/matrices/adj_matrix
+Transition matrix output directory: /Users/sam/Documents/Wesleyan/Thayer_Lab/2025/summer/bharat/matrices/trans_matrix
+Absorbing transition matrix output directory: /Users/sam/Documents/Wesleyan/Thayer_Lab/2025/summer/bharat/matrices/trans_abs_matrix
+Logging to: ./create_network/network_creation.log
+
+Processing /Users/sam/Documents/Wesleyan/Thayer_Lab/2025/summer/bharat/dccm/AP.dat
+Using PDB file: /Users/sam/Documents/Wesleyan/Thayer_Lab/2025/summer/bharat/pdb/AP.pdb
+✅ Graph: 1808 nodes, 34534 edges
+📁 Saved to: /Users/sam/Documents/Wesleyan/Thayer_Lab/2025/summer/bharat/matrices/graphml/AP.graphml, /Users/sam/Documents/Wesleyan/Thayer_Lab/2025/summer/bharat/matrices/adj_matrix/AP_adj.npz, /Users/sam/Documents/Wesleyan/Thayer_Lab/2025/summer/bharat/matrices/trans_matrix/AP_trans.npz, /Users/sam/Documents/Wesleyan/Thayer_Lab/2025/summer/bharat/matrices/trans_abs_matrix/AP_trans_abs.npz
+
+
+Processing /Users/sam/Documents/Wesleyan/Thayer_Lab/2025/summer/bharat/dccm/APL.dat
+Using PDB file: /Users/sam/Documents/Wesleyan/Thayer_Lab/2025/summer/bharat/pdb/APL.pdb
+✅ Graph: 1776 nodes, 20500 edges
+📁 Saved to: /Users/sam/Documents/Wesleyan/Thayer_Lab/2025/summer/bharat/matrices/graphml/APL.graphml, /Users/sam/Documents/Wesleyan/Thayer_Lab/2025/summer/bharat/matrices/adj_matrix/APL_adj.npz, /Users/sam/Documents/Wesleyan/Thayer_Lab/2025/summer/bharat/matrices/trans_matrix/APL_trans.npz, /Users/sam/Documents/Wesleyan/Thayer_Lab/2025/summer/bharat/matrices/trans_abs_matrix/APL_trans_abs.npz
+
+
+Processing /Users/sam/Documents/Wesleyan/Thayer_Lab/2025/summer/bharat/dccm/P.dat
+Using PDB file: /Users/sam/Documents/Wesleyan/Thayer_Lab/2025/summer/bharat/pdb/P.pdb
+✅ Graph: 1862 nodes, 53874 edges
+📁 Saved to: /Users/sam/Documents/Wesleyan/Thayer_Lab/2025/summer/bharat/matrices/graphml/P.graphml, /Users/sam/Documents/Wesleyan/Thayer_Lab/2025/summer/bharat/matrices/adj_matrix/P_adj.npz, /Users/sam/Documents/Wesleyan/Thayer_Lab/2025/summer/bharat/matrices/trans_matrix/P_trans.npz, /Users/sam/Documents/Wesleyan/Thayer_Lab/2025/summer/bharat/matrices/trans_abs_matrix/P_trans_abs.npz
+
+
+Processing /Users/sam/Documents/Wesleyan/Thayer_Lab/2025/summer/bharat/dccm/PL.dat
+Using PDB file: /Users/sam/Documents/Wesleyan/Thayer_Lab/2025/summer/bharat/pdb/PL.pdb
+✅ Graph: 1859 nodes, 54364 edges
+📁 Saved to: /Users/sam/Documents/Wesleyan/Thayer_Lab/2025/summer/bharat/matrices/graphml/PL.graphml, /Users/sam/Documents/Wesleyan/Thayer_Lab/2025/summer/bharat/matrices/adj_matrix/PL_adj.npz, /Users/sam/Documents/Wesleyan/Thayer_Lab/2025/summer/bharat/matrices/trans_matrix/PL_trans.npz, /Users/sam/Documents/Wesleyan/Thayer_Lab/2025/summer/bharat/matrices/trans_abs_matrix/PL_trans_abs.npz
+
+
+==== Batch Network Creation Completed ====

@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     7:
+HEADER 0  - Pocket Score                      : 0.0161
+HEADER 1  - Drug Score                        : 0.0000
+HEADER 2  - Number of alpha spheres           :    26
+HEADER 3  - Mean alpha-sphere radius          : 3.9787
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4484
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : -1.2857
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 3.7143
+HEADER 9  - Pocket volume (Monte Carlo)       : 304.0057
+HEADER 10 - Pocket volume (convex hull)       : 13.4701
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     0
+HEADER 14 - Proportion of apolar alpha sphere : 0.0000
+ATOM   1910  NH1 ARG   122       9.393  -0.458  15.273  0.00  0.00           N 0
+ATOM   1893    O GLN   121      12.372   1.266  11.524  0.00  0.00           O 0
+ATOM   1291  OD1 ASN    82       7.444   5.318  10.411  0.00  0.00           O 0
+ATOM   1926  OD1 ASN   123       9.796   5.508  16.345  0.00  0.00           O 0
+ATOM   1909   CZ ARG   122      10.170   0.092  16.127  0.00  0.00           C 0
+ATOM   1913  NH2 ARG   122       9.608   0.989  16.911  0.00  0.00           N 0
+ATOM   1273  CG1 VAL    81       3.954   5.130  11.200  0.00  0.00           C 0
+ATOM   1927  ND2 ASN   123      11.777   5.790  15.473  0.35  5.47           N 0
+ATOM   1918    N ASN   123      12.758   2.980  16.013  0.00  0.00           N 0
+ATOM   1896   CA ARG   122      13.417   1.548  14.093  0.00  0.00           C 0
+ATOM   1888  OE1 GLN   121      12.865   6.281  10.090  0.38  7.50           O 0
+ATOM   1887   CD GLN   121      12.429   5.433   9.277  0.00  0.00           C 0
+ATOM   1287   CB ASN    82       7.475   3.569   8.695  0.00  0.00           C 0
+ATOM   1282    O VAL    81       4.936   1.938   9.354  0.00  0.00           O 0
+ATOM   1884   CG GLN   121      12.712   3.971   9.354  0.00  0.00           C 0
+ATOM   1862    O ALA   119      11.560  -0.524   7.943  0.62  7.50           O 0
+ATOM   1271   CB VAL    81       3.141   3.828  11.244  0.00  0.00           C 0
+ATOM   1296    O ASN    82       7.317   1.732   6.714  0.56  2.14           O 0
+ATOM   1846   CB PRO   118       8.123  -2.825   6.416  0.00  0.00           C 0
+TER
+END
